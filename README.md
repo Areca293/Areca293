@@ -26,8 +26,6 @@ I'm a developer interested in how the pieces of a system fit together: the inter
 - 🌐 Building **Worldline**, a reading app with React, TypeScript, Django REST Framework and PostgreSQL.
 - 📱 Working across **Swift / UIKit / SwiftUI** and **Kotlin / Compose Multiplatform**, from persistent app data to reusable UI and animations.
 - 🧠 Exploring **PyTorch-based intrusion detection** and **Python-based EEG analysis**.
-- 🎓 BEng in Computer Science and Technology; MSc Computing Science at **University College Cork** — dissertation submitted, final results and degree award pending.
-- 💬 Mandarin Chinese (native) · English (C1).
 
 ## Things I've been building
 
