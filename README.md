@@ -54,7 +54,7 @@ A notebook-based intrusion detection project using CIC-IDS-2017 data, with model
 
 ### 🗺️ [TripWave / CodeWave](https://github.com/Areca293/CodeWave)
 
-**Ireland travel planner · UCC team project**  
+**Ireland travel planner · Team project**  
 `Nuxt 3` `Vue` `Vuetify` · Team backend: `Node.js` `Express` `PostgreSQL`
 
 My contributions focused on UI/UX and the recommendation experience: Figma designs, API-connected suggestions, and an in-page details drawer that keeps the map in view.
